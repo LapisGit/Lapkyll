@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Lapkyll
+description: "A nice light purple Jeykll theme meant to be simple and understandable for all users."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
