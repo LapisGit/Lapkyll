@@ -1,7 +1,9 @@
 body {
-  background-color: #b654d4b8;
+  background: linear-gradient(135deg, #e6ccff, #d1b3ff);
   font-family: sans-serif;
   margin: auto;
   max-width: 70ch;
   color: #383434;
+  position: relative;
+  overflow: hidden;
 }
